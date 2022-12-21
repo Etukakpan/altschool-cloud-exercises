@@ -469,9 +469,6 @@ At this point, we can now access our laravel application through the URL http://
 LARAVEL APP IP:
 35.156.124.223
 
-AWS ACESS ID:
-
-AWS CODE:
 
 
 
